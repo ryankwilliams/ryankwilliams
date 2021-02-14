@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋
+
+Hi, I'm Ryan, a engineer at Red Hat working on automating the interoperability testing for multi-product solutions.
 
 <!--
 **ryankwilliams/ryankwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
