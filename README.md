@@ -9,7 +9,7 @@ A little bit about myself:
 * I am a strong debugger
 * I am passionate for quality engineering and software development
 
-I am part of the Multi Product Quality Engineering (Integration QE) team. Where we focus on testing the integration requirements between the products and the platforms they run on (e.g. OpenShift Container Platform). I am the technical lead for the team. Where I am responsible for being an architect and overseeing all projects. I focus on designing and building efficient continuous integration (CI) workflows for orchestrating the integration testing between the products.
+I am part of the Cloud Services & Platform Integration QE team. Where we focus on testing the integration requirements between the products and the platforms they run on (e.g. OpenShift Container Platform). I am the technical lead for the team. Where I am responsible for being an architect and overseeing all projects. I focus on designing and building efficient continuous integration (CI) workflows for orchestrating the integration testing between the products.
 
 I am very passionate for anything automation related. I am always looking to learn new skills to advance my automation skill set.
 
@@ -18,6 +18,7 @@ Part of my daily routine consists of:
 * Automating tasks in Ansible
 * Writing Groovy Jenkins pipelines/libraries
 * Working in Linux environments
+* Working with containers, OpenShift (kubernetes)
 * Reviewing code reviews
 
 🌱 I am currently working on expanding my programming knowledge to learn more about Go.
