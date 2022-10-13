@@ -4,7 +4,7 @@ My name is Ryan and I am a Principal Software Quality Engineer at Red Hat.
 
 A little bit about myself:
 * I have a bachelors degree in Computer Science
-* I have over 8 years of experience in the software industry (most spent in Quality Engineering (automation/testing/building tools))
+* I have over 11 years of experience in the software industry (most spent in Quality Engineering (automation/testing/building tools))
 * I have a strong background in automation
 * I am a strong debugger
 * I am passionate for quality engineering and software development
