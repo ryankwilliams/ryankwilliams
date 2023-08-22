@@ -2,13 +2,17 @@
 
 👋 My name is Ryan and I am a Principal Software Quality Engineer at Red Hat.
 * I have a bachelors degree in Computer Science
-* I have over 11 years of industry experience where I am experienced in automation, debugging/troubleshooting,
-  testing, building tools/test frameworks, CI/CD and designing solutions to solve complex problems.
+* I have over 11 years of industry experience where I am experienced in
+  * Automation
+  * Debugging/troubleshooting
+  * Testing
+  * Building tools/test frameworks
+  * CI/CD
+  * Designing solutions to solve complex problems
 * I am always looking to learn new skills to advance my automation skill set
 
 🔭 My current role:
-* Technical lead for the cloud services and platform integration team
-* Contributor to testing Managed OpenShift
+* Engineer working on Ansible Automation Platform
 
 ⚡ When I am not working with technology, I enjoy:
 * Spending time with my family
