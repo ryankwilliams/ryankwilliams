@@ -1,16 +1,16 @@
 # Hello!
 
-**👋 My name is Ryan and I am a `Principal Software Quality Engineer` at Red Hat working on `Ansible Automation Platform`.**
+**👋 My name is Ryan and I am a `Principal Software Engineer` at Red Hat working on `Ansible Automation Platform`.**
 * I have a bachelors degree in Computer Science
-* I have over 11 years of industry experience
+* I have over 12 years of industry experience
 * I am highly experienced in
   * Programming / automation
   * Debugging / troubleshooting
   * Problem solving
   * Designing and building applications / frameworks
   * Containers / linux
-  * Testing / writing tests
   * Continuous integration / continuous development (CI/CD)
+  * Testing / writing tests
 * I am always looking to learn new skills to advance my technical toolbox
 
 **⚡ When I am not working with technology, I enjoy**
